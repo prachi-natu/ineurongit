@@ -1,5 +1,6 @@
 mango
 cherry
 line inserted
+apple inserted
 custurd apple
 line added
