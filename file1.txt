@@ -1,3 +1,6 @@
 
 # this is comment
 # this is in file1 of branch1
+line added
+now merge with main branch
+then commit and push
